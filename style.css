@@ -4,8 +4,8 @@
 
 
 body {
-background: rgb(18,65,108);
-background: linear-gradient(90deg, rgba(18,65,108,1) 0%, rgba(0,212,255,1) 49%, rgba(18,65,108,1) 100%);
+background: rgb(255,255,255);
+background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(0,83,159,1) 43%, rgba(108,18,18,1) 100%);
 }
 
 /* 
